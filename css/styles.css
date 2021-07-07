@@ -26,15 +26,6 @@ h1{
 .tarjeta{
   background-color: white;
   border-radius: 20px;
-  margin: 0 auto;
-  height: 200px;
-  width: 50%;
-  max-width: 400px;
-}
-
-.tarjeta{
-  background-color: white;
-  border-radius: 20px;
   height: 200px;
   margin: 0 auto;
   max-width: 400px;
